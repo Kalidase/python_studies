@@ -1,2 +1,8 @@
 test
 
+<<<<<<< HEAD
+=======
+aaaaaaaaaaaaaaaaaaaaaaa
+ddddddddddddddddd
+ffffffffffffffffffffff
+>>>>>>> 710d107e8342bc12d54fc876329d7bfab30d2650
